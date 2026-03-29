@@ -14,11 +14,6 @@
       "id": "transmission",
       "title": "Трансмісія",
       "icon": "⚙️"
-    },
-    {
-      "id": "electric",
-      "title": "Електрика",
-      "icon": "⚡"
     }
   ],
   "products": [
