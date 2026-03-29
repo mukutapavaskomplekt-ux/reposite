@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "id": "engine",       "title": "Двигун",            "icon": "🔩" },
+    { "id": "brakes",       "title": "Гальмівна система", "icon": "🛑" },
+    { "id": "suspension",   "title": "Підвіска",          "icon": "🔧" },
+    { "id": "transmission", "title": "Трансмісія",        "icon": "⚙️" },
+    { "id": "electric",     "title": "Електрика",         "icon": "⚡" },
+    { "id": "body",         "title": "Кузов",             "icon": "🚗" },
+    { "id": "filters",      "title": "Фільтри",           "icon": "🌀" },
+    { "id": "fluids",       "title": "Оливи та рідини",   "icon": "🛢️" },
+    { "id": "wheels",       "title": "Шини та диски",     "icon": "🔘" },
+    { "id": "accessories",  "title": "Аксесуари",         "icon": "🧰" }
+  ],
+  "products": [
+    { "id": "eng-1", "categoryId": "engine", "name": "Поршневий комплект VAG 1.6 TDI", "code": "ENG-1042", "price": 2450, "emoji": "🔩", "specs": "Матеріал: алюміній\nКількість поршнів: 4\nОбсяг: 1.6 л" },
+    { "id": "eng-2", "categoryId": "engine", "name": "Ремінь ГРМ Gates PowerGrip",     "code": "ENG-2187", "price": 890,  "emoji": "⚙️", "specs": "Матеріал: резина\nДовжина: 1200 мм\nВиробник: Gates" },
+    { "id": "eng-3", "categoryId": "engine", "name": "Прокладка головки блоку Elring", "code": "ENG-3301", "price": 1120, "emoji": "🛢️", "specs": "Матеріал: метал-еластомер\nТовщина: 1.5 мм\nВиробник: Elring" }
+  ]
+}
