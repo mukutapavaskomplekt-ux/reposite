@@ -19,11 +19,6 @@
       "id": "electric",
       "title": "Електрика",
       "icon": "⚡"
-    },
-    {
-      "id": "fluids",
-      "title": "Оливи та рідини",
-      "icon": "🛢️"
     }
   ],
   "products": [
