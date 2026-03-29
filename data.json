@@ -13,15 +13,6 @@
   ],
   "products": [
     {
-      "id": "eng-1",
-      "categoryId": "engine",
-      "name": "Поршневий комплект VAG 1.6 TDI",
-      "code": "ENG-1042",
-      "price": 2450,
-      "emoji": "🔩",
-      "specs": "Матеріал: алюміній\nКількість поршнів: 4\nОбсяг: 1.6 л"
-    },
-    {
       "id": "eng-2",
       "categoryId": "engine",
       "name": "Ремінь ГРМ Gates PowerGrip",
